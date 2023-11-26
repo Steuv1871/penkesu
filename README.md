@@ -1,6 +1,6 @@
 # Penkesu Computer - A Homebrew Retro-style Handheld PC
-> <img src="https://avatars.githubusercontent.com/u/61878" alt="" size="32" height="25" width="25" data-view-component="true" class="avatar circle"> Original design by [penk](https://github.com/penk)\
-<img src="https://avatars.githubusercontent.com/u/31043916" alt="" size="32" height="25" width="25" data-view-component="true" class="avatar circle"> Fork by [Steuv1871](https://github.com/Steuv1871)
+> <img src="https://avatars.githubusercontent.com/u/61878" alt="" size="32" height="25" width="25" style="border-radius: 50%; vertical-align: middle;"> Original design by [penk](https://github.com/penk)\
+<img src="https://avatars.githubusercontent.com/u/31043916" alt="" size="32" height="25" width="25" style="border-radius: 50%; vertical-align: middle;"> Fork by [Steuv1871](https://github.com/Steuv1871)
 
 ![Penkesu Computer - A Homebrew Retro-style Handheld PC](gallery/penkesu.computer-heroshot.jpg)
 
